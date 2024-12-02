@@ -11,6 +11,7 @@ import uuid
 from datetime import datetime
 from itertools import product
 
+
 # pip3 install ddddocr
 # error module 'PIL.Image' has no attribute 'ANTIALIAS'
 # pip3 install --force-reinstall -v "Pillow==9.5.0"
