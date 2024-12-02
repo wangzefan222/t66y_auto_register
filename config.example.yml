@@ -1,7 +1,7 @@
 registered_users:
-  - mail: yourfirstmail@hotmail.com
-    user_name: yourfirstuser
-    password: yourfirstpassword
+  - mail: jjomamfotd@iubridge.com
+    user_name: 123456789Zz
+    password: 123456789Zz
 
 mask_rule:
   '*': "0123456789"
