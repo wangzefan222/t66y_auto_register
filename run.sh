@@ -5,6 +5,8 @@ git pull
 # 默认操作为重启
 action="restart"
 
+
+
 # 检查输入的参数
 while [[ $# -gt 0 ]]; do
   case $1 in
